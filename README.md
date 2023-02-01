@@ -1,1 +1,76 @@
-# CV
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ansh's Personal Website</title>
+</head>
+<body>
+    <table>
+        
+               <td> <img src="images/20230128_174837-modified.jpeg" alt="Ansh's profile picture" style="width: 200px;height: 300px;"></td>
+        
+                <td><h1>Ansh Vashist</h1>
+                    <p><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Student at Manipal</a></em></p>
+                    <br>
+                    <p>So his is ansh studying in manipal university jaipur who is trying to learn different shit but has not read angea's book it is life changing</p></td>
+        
+        
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>Mount Carmel School(2009-2021)</li>
+        <li>Manipal University Jaipur(2021-2025)#Expected#</li>
+    </ul>
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <hr>
+    <h3>Experience</h3>
+    <table cellspacing="10">
+        <thead>
+            <tr>
+                <th>Duration</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2018</td>
+                <td>Worked in Haywiire as App Development Head</td>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td>Worked as an intern in a company</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+        <td>
+            <table>
+                <tr>
+                    <td>C</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Python</td>
+                    <td>⭐⭐⭐</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>App Development</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Gaming</td>
+                    <td>⭐⭐</td>
+                </tr>
+            </table>
+        </td>
+    </table>
+</body>
+</html>
